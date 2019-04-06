@@ -7,3 +7,8 @@ Aby używać należy:
 * Uruchom plik **START**
 
 *TEST*
+## Moje ulubione testerskie narzędzia:
+- Selenium Webdriver
+- Robot Framework
+- Appium 
+- Jenkins
